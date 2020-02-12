@@ -29,7 +29,6 @@ ALLOWED_HOSTS = ['django-env2.zbyixb8wb2.ap-northeast-2.elasticbeanstalk.com',]
 
 
 # Application definition
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
